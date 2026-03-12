@@ -1,11 +1,5 @@
 # 01-callbacks.js
 
-### When you run it:
-
-```
-node codes/01-callbacks.js
-```
-
 ### 1️⃣ Non-blocking behavior
 
 Even though setTimeout is used, JavaScript doesn't block execution.
